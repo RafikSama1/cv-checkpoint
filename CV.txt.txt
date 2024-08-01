@@ -1,0 +1,63 @@
+1.Incorrect date for employment:
+Mistake: "March 2022 to August 2025".
+Correction: Change it to "March 2022 to August 2023".
+Example Fix: "March 2022 to August 2023"
+
+2.Ambiguous phrasing ("so many"):
+Mistake: "Maintained so many customer satisfaction rating".
+Correction: Change to "Maintained a high customer satisfaction rating".
+Example Fix: "Maintained a high customer satisfaction rating"
+
+3.Repetition of "by":
+Mistake: "Boosted team efficiency by a high rate, by providing direction for business applications that are in development".
+Correction: Remove the second "by" and simplify the sentence.
+Example Fix: "Boosted team efficiency significantly by providing direction for business applications in development"
+
+4.Incorrect LinkedIn link format:
+Mistake: "linkedin.com/in/Keith Shannons".
+Correction: Ensure the link is properly formatted.
+Example Fix: "linkedin.com/in/keithshannons" or "linkedin.com/in/keith-shannons"
+
+5.Placeholder phone number:
+Mistake: "+123-456-7890" (a generic placeholder number).
+Correction: Replace it with a real phone number.
+Example Fix: "+1-234-567-8901"
+
+
+Keith Shannons
+Software Engineer
+
+Contact Information:
+Email: hello@reallygreatsite.com
+Phone: +1-234-567-8901
+Website: www.reallygreatsite.com
+LinkedIn: linkedin.com/in/keithshannons
+
+WORK EXPERIENCE
+JUNIOR SOFTWARE ENGINEER
+Heiman Software Labs, a global company that provides software services across various industries
+March 2022 to August 2023 (1 year, 5 months)
+
+- Maintained a high customer satisfaction rating by developing and implementing software solutions based on client requirements.
+- Boosted team efficiency significantly by providing direction for business applications in development.
+- Hastened human resources processes by 80% by developing a cloud-based information system that consolidated employee information from various databases and servers.
+- Learned about the operations of the company's software programming team.
+- Coordinated communications between multiple departments.
+
+INTERN
+Heiman Software Labs
+Oct 2021 to Dec 2021 (3 months)
+
+EDUCATION HISTORY
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+Institution: De Loureigh University
+Year of Graduation: 2021
+
+RELEVANT SKILLS
+Javascript, C/C++, Java, Python, Kotlin, Go
+
+VOLUNTEER WORK AND AFFILIATIONS
+-Volunteer Math Teacher, Lily River Children's Foundation
+-Member, Coding Masters Club, Roseton Chapter
+-Founder, DLU Coding Club
+-Champion, Beechtown Hackathon 2020
